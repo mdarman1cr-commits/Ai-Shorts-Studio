@@ -1,0 +1,6 @@
+{
+  "name": "AI YouTube Shorts Generator & Studio",
+  "description": "Transform YouTube links and uploaded videos into viral 9:16 Shorts with deep AI analysis, dynamic animated subtitles, cinematic color grading, and video export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
